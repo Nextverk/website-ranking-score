@@ -6,4 +6,4 @@ It changes nothing on the site. It reads, measures and reports.
 
 ## Updates
 
-Releases here are what every installed site checks. In the plugin: Settings, Plugin updates, Update source, then `Pakleatherzone/website-ranking-score`. New versions then appear as an ordinary plugin update on each site's dashboard.
+Releases here are what every installed site checks. In the plugin: Settings, Plugin updates, Update source, then `Nextverk/website-ranking-score`. New versions then appear as an ordinary plugin update on each site's dashboard, so nothing has to be reinstalled by hand.
